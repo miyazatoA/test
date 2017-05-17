@@ -6,12 +6,13 @@
 package helloworld;
 
 /**
- *
+ *　確認用のJavaファイル.
  * @author test
  */
 public class HelloWorld {
 
     /**
+     * メインメソッド.
      * @param args the command line arguments
      */
     public static void main(String[] args) {
