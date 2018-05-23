@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package helloworld;
+package javatest;
 
 /**
  *
- * @author BBC300311
+ * @author BBC300315
  */
-public class BBC300311 {
-    // 大津が参上しました
+public class BBC300315 {
+    
 }
