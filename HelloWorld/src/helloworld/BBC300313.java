@@ -10,5 +10,5 @@ package helloworld;
  * @author BBC300313
  */
 public class BBC300313 {
-    
+    // 吉木りさと付き合っています
 }
