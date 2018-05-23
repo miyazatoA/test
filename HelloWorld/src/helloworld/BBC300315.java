@@ -11,6 +11,6 @@ package helloworld;
  */
 public class BBC300315 {
      public static void main(String[] args) {
-            System.out.println("おきてええええええええええええええええ");
+            System.out.println("無駄無駄無駄無駄無駄無駄無駄無駄無駄無駄無駄無駄無駄無駄ァ！");
     }
 }
