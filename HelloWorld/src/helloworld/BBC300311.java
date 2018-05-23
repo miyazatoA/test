@@ -10,5 +10,5 @@ package helloworld;
  * @author BBC300311
  */
 public class BBC300311 {
-    public void test() {}
+    System.out.println("大津が参上しました");
 }
