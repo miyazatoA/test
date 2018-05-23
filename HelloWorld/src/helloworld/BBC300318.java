@@ -10,5 +10,5 @@ package helloworld;
  * @author BBC300318
  */
 public class BBC300318 {
-    
+    // 助けてくれーーーーーーーーーーーーーーーーーーーー！！！！！！！！！
 }
