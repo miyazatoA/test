@@ -11,6 +11,8 @@ package helloworld;
  */
 public class BBC300313 {
     public static void main(String[] args) {
-        System.out.println("ゆうかだよ(*´з`)");
+        while(true)
+            System.out.println("ゆうかだよ(*´з`)");
+        
     }
 }
