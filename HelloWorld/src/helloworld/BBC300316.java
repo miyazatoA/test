@@ -7,8 +7,10 @@ package helloworld;
 
 /**
  *
- * @author BBC300310
+ * @author BBC300317
  */
-public class BBC300310 {
-    //うぇええええええええい
+//福原
+
+public class BBC300316 {
+    // ※私は福原ではありません！
 }
