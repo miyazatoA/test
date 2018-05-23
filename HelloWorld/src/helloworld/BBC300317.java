@@ -7,9 +7,9 @@ package helloworld;
 
 /**
  *
- * @author BBC300041
+ * @author BBC300317
  */
-//福原
-public class BBC300041 {
+
+public class BBC300317 {
     
 }
