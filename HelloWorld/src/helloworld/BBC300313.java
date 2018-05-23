@@ -7,8 +7,8 @@ package helloworld;
 
 /**
  *
- * @author BBC300311
+ * @author BBC300313
  */
-public class BBC300311 {
-    public void test() {}
+public class BBC300313 {
+    
 }
