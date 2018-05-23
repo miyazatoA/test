@@ -3,14 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package helloworld;
+package javatest;
 
 /**
  *
  * @author BBC300315
  */
-public class BBC300315 {
+public class JavaTest {
+
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
-        System.out.println("こんにちは");
+        // TODO code application logic here
     }
+    
 }
