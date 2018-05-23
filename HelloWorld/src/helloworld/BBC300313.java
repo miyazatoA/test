@@ -10,5 +10,7 @@ package helloworld;
  * @author BBC300313
  */
 public class BBC300313 {
-    
+    public static void main(String[] args) {
+        System.out.println("ゆうかだよ(*´з`)");
+    }
 }
