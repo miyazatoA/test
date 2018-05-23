@@ -11,4 +11,5 @@ package helloworld;
  */
 public class BBC300314 {
     // 吉木りさが見つめています
+    public void test() {}
 }

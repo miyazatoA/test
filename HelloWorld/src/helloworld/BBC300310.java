@@ -7,11 +7,8 @@ package helloworld;
 
 /**
  *
- * @author BBC300315
+ * @author BBC300310
  */
-public class BBC300315 {
-    public static void main(String[] args) {
-        System.out.println("こんにちは");
-        System.out.println("こんにちは");
-    }
+public class BBC300310 {
+    
 }
