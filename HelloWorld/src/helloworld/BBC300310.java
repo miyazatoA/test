@@ -7,8 +7,8 @@ package helloworld;
 
 /**
  *
- * @author BBC300318
+ * @author BBC300310
  */
-public class BBC300318 {
-    // 助けてくれーーーーーーーーーーーーーーーーーーーー！！！！！！！！！
+public class BBC300310 {
+    
 }
