@@ -10,5 +10,5 @@ package helloworld;
  * @author BBC300311
  */
 public class BBC300311 {
-    
+    void test() {}
 }
