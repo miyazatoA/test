@@ -7,12 +7,10 @@ package helloworld;
 
 /**
  *
- * @author BBC300313
+ * @author BBC300317
  */
-public class BBC300313 {
-    public static void main(String[] args) {
-        while(true)
-            System.out.println("ゆうかだよ(*´з`)");
-        
-    }
+//福原
+
+public class BBC300316 {
+    // ※私は福原ではありません！
 }

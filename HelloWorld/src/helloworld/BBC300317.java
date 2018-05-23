@@ -12,5 +12,5 @@ package helloworld;
 //福原
 
 public class BBC300317 {
-    
+    // ※私は福原ではありません！
 }

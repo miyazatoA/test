@@ -10,6 +10,5 @@ package helloworld;
  * @author BBC300314
  */
 public class BBC300314 {
-    // 吉木りさが見つめています
-    public void test() {}
+    
 }

@@ -10,8 +10,7 @@ package helloworld;
  * @author BBC300315
  */
 public class BBC300315 {
-    public static void main(String[] args) {
-        System.out.println("こんにちは");
-        System.out.println("こんにちは");
+     public static void main(String[] args) {
+            System.out.println("おきてええええええええええええええええ");
     }
 }
